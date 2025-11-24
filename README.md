@@ -91,4 +91,3 @@ Git & GitHub for version control
 
 ---
 
-If you want, I can also add screenshots, flowcharts, or example outputs inside this README.
